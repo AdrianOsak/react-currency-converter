@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+[Polish zloty converter] (https://adrianosak.github.io/react-currency-converter/)
+
 ## Description
 
 This application is simple currency converter which allows you to type in any amount in Polish Zloty and convert it to one of the available options, such as:
