@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Polish Zloty converter in React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+This application is simple currency converter which allows you to type in any amount in Polish Zloty and convert it to one of the available options, such as:
+
+- Euro,
+- US Dollar,
+- British Pound,
+- Swiss Frank.
+
+Convertion is being made after clicking on "Convert" button and result shows below the button. Result shows your amount in polish zloty and it's equivalent in chosen currency.
 
 ## Available Scripts
 
@@ -33,7 +44,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
