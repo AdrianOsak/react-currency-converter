@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-[Polish zloty converter] (https://adrianosak.github.io/react-currency-converter/)
+https://adrianosak.github.io/react-currency-converter/
 
 ## Description
 
