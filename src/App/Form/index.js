@@ -62,7 +62,7 @@ const Form = ({ calculateResult, result }) => {
                 Convert
             </button>
             <span className="info">
-                All rates taken from Narodowy Bank Polski website from table: Tabela nr 136/A/NBP/2022 z dnia 2022-07-15
+                All rates taken from https://www.nbp.pl from table: Tabela nr 136/A/NBP/2022 z dnia 2022-07-15
             </span>
         </p>
         <Result result={result} />
